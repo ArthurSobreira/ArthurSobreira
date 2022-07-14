@@ -9,8 +9,11 @@
   * Besides everything related to technology, I love **books**, **strategy games** and I also like solving **logic problems**.
 
 <br>
+
+##
+
 <br>
-<br>
+
 <div>
   <a href="https://github.com/ArthurSobreira">
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"><br>
