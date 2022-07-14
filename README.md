@@ -6,9 +6,8 @@
   * I'm **Arthur Sobreira**, a **Python Developer** with 17 years old. 
   * I'm have experience in **functional** and **object-oriented** programming, 
     and i also study some frameworks like ***Django*** and ***Flask***.
-  * Besides everything related to technology, I love **books** and **strategy games** and I also like solving **logic problems**.
-
-## 
+  * Besides everything related to technology, I love **books**, **strategy games** and I also like solving **logic problems**.
+  * Some languages and tools I use are described below:
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML5" height=50
