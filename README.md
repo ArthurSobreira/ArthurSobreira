@@ -3,10 +3,12 @@
 <img src=pragramming.gif height=200 align=right>
 
 ### Who am i?
-  * I'm **Arthur Sobreira** and have 17 years old. 
-  * I'm a **Python Developer**, with experience in **functional** and **object-oriented** programming. 
-  * I also study some frameworks like ***Django*** and ***Flask***. 
+  * I'm **Arthur Sobreira**, a **Python Developer** with 17 years old. 
+  * I'm have experience in **functional** and **object-oriented** programming, 
+    and i also study some frameworks like ***Django*** and ***Flask***.
   * Besides everything related to technology, I love **books** and **strategy games** and I also like solving **logic problems**.
+
+## 
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML5" height=50
@@ -18,7 +20,7 @@
   <img align="center" alt="Git" height=50 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height=50
-       src=github-icon.png>      
+       src=github-icon.png>
 </div>
 
 ##
@@ -27,5 +29,7 @@
   <a href="https://github.com/ArthurSobreira">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true">
 </div>
+ 
+<div alight="">
 
 
