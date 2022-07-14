@@ -24,9 +24,10 @@
 
 ##
 
+<br>
 <div>
   <a href="https://github.com/ArthurSobreira">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=false&theme=nord&include_all_commits=false&count_private=false"><br>
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"><br>
   <a align="center" href="https://instagram.com/arthursserpa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href="mailto:tutusobreirai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/arthur-sobreira-96591722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
