@@ -17,7 +17,7 @@ Besides everything related to technology, I love **books** and **strategy games*
   <img align="center" alt="Git" height=60 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height=60
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">      
+       src=github-icon.png>      
 </div>
 
 
