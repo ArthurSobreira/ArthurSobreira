@@ -9,6 +9,8 @@
   * Besides everything related to technology, I love **books**, **strategy games** and I also like solving **logic problems**.
 
 <br>
+<br>
+<br>
 <div>
   <a href="https://github.com/ArthurSobreira">
   <img align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"><br>
@@ -24,6 +26,7 @@
 your mind is software, 
 install everything you need."
 ```
+ 
 ##
 
 <div align="center" style="display: inline_block"><br>
@@ -38,15 +41,4 @@ install everything you need."
   <img align="center" alt="GitHub" height=30
        src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit>
 </div>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
