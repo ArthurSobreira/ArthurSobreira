@@ -1,9 +1,9 @@
-### Hi there 👋
+<img src=pragramming.gif height=200 align=right>
 
-<!--
-**ArthurSobreira/ArthurSobreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, Welcome to my Profile!!
 
-Here are some ideas to get you started:
+### Who am i?
+I'm Arthur, I'm Arthur, I'm 17 years old and I've been studying programming since I was 15 years.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
