@@ -3,7 +3,7 @@
 <img src=pragramming.gif height=220 align=right>
 
 ### About me
-  * I'm **Arthur Sobreira**, a **Python Developer** with 17 years old. 
+  * I'm **Arthur Sobreira**, a **Python Developer** with 18 years old. 
   * I'm have experience in **functional** and **object-oriented** programming, 
     and i also study some frameworks like ***Django*** and ***Flask***.
   * Besides everything related to technology, I love **books**, **strategy games** and I also like solving **logic problems**.
