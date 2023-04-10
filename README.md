@@ -5,7 +5,7 @@
 <h3>About me</h3>
 <ul>
    <li>I'm <strong>Arthur Sobreira</strong>, a <strong>Python Developer</strong> with 18 years old.</li>
-   <li>I'm have experience in <strong>functional</strong> and <strong>object-oriented programming</strong>, a thorough understanding of <strong>Web Development</strong> (HTML, CSS and JS) and i also study some frameworks like <strong>Django</strong>.</li>
+   <li>I have experience in <strong>functional</strong> and <strong>object-oriented programming</strong>, a thorough understanding of <strong>Web Development</strong> (HTML, CSS and JS) and i also study some frameworks like <strong>Django</strong>.</li>
    <li>Besides everything related to technology, I love <strong>books</strong>, <strong>strategy games</strong> and I also like solving <strong>logic problems</strong>.</li>
 </ul><br>
 
