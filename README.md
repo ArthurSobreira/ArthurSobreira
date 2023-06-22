@@ -41,6 +41,6 @@ install everything you need."
   <a href='https://github.com/ArthurSobreira'><img align="center" alt="Git" height=30 
        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href='https://github.com/ArthurSobreira'><img align="center" alt="GitHub" height=30
-       src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit></a>
+       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
  
