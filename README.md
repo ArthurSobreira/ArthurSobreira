@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <ul>
-   <li>I'm <strong>Arthur Sobreira</strong>, an 18-year-old <strong>Software Engineering</strong> student at <a href="https://www.42sp.org.br/">42 São Paulo</a>.</li>
+   <li>I'm <strong>Arthur Sobreira</strong>, an 18-year-old <strong>Software Engineering</strong> student at <a href="https://www.42sp.org.br/" target="_blank">42 São Paulo</a>.</li>
    <li>I have experience in <strong>functional</strong> and <strong>object-oriented programming</strong>, a thorough understanding of <strong>Web Development</strong> (HTML, CSS, and JS) and I also study some frameworks like <strong>Django</strong>.</li>
    <li>Besides everything related to technology, I love <strong>books</strong>, <strong>strategy games</strong> and I also like solving <strong>logic problems</strong>.</li>
 </ul><br>
