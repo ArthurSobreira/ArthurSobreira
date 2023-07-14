@@ -36,7 +36,7 @@ install everything you need."
        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href='https://github.com/ArthurSobreira?tab=repositories&q=Python&type=&language=&sort='><img align="center" alt="Python" height=30 
        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href='https://github.com/ArthurSobreira'><img align="center" alt="C" height=30 
+  <a href='https://github.com/ArthurSobreira?tab=repositories&q=&type=&language=c&sort='><img align="center" alt="C" height=30 
        src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href='https://github.com/ArthurSobreira?tab=repositories&q=Django&type=&language=&sort='><img align="center" alt="Django" height=30 
        src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
