@@ -1,4 +1,4 @@
-<div><h2>💻 Hello, Welcome to my Profile!! <img align="right" src="https://komarev.com/ghpvc/?username=ArthurSobreira&label=Profile%20views&color=0e75b6&style=flat" alt="ArthurSobreira"/></h2></div>
+<h2>💻 Hello, Welcome to my Profile!!</h2>
 
 <img src=pragramming.gif height=220 align=right>
 
