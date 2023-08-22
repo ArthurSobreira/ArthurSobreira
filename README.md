@@ -31,8 +31,11 @@ install everything you need."
 
 <div align="center">
    <a href="https://github.com/ArthurSobreira/42_libft" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "10" >
-   </a> 
+      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
+   </a>
+   <a href="https://github.com/ArthurSobreira/42_get_next_line" target="_blank">
+      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
+   </a>
 </div>
  
 ##
