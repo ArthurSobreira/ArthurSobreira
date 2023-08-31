@@ -31,10 +31,10 @@ install everything you need."
 
 <div align="center">
    <a href="https://github.com/ArthurSobreira/42_libft" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
+      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_get_next_line" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
+      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png">
    </a>
 </div>
  
