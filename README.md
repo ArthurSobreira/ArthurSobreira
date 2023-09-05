@@ -36,6 +36,9 @@ install everything you need."
    <a href="https://github.com/ArthurSobreira/42_get_next_line" target="_blank">
       <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png">
    </a>
+   <a href="https://github.com/ArthurSobreira/42_ft_printf" target="_blank">
+      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png">
+   </a>
 </div>
  
 ##
