@@ -22,9 +22,9 @@
 <br> 
 
 ```
-"Your brain is hardware, 
+Your brain is hardware, 
 your mind is software, 
-install everything you need."
+install everything you need.
 ```
 
 <h2>💻 42 Projects</h1>
