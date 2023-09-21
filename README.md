@@ -27,7 +27,7 @@ your mind is software,
 install everything you need.
 ```
 
-<h2>💻 42 Projects</h1>
+<h2>💻 42 Projects</h2>
 
 <div align="center">
    <a href="https://github.com/ArthurSobreira/42_libft" target="_blank">
