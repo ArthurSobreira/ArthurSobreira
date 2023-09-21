@@ -1,4 +1,4 @@
-<h2>💻 Hello, Welcome to my Profile!!</h2>
+## 💻 Hello, Welcome to my Profile!!
 
 <img src=pragramming.gif height=220 align=right>
 
@@ -27,7 +27,7 @@ your mind is software,
 install everything you need.
 ```
 
-<h2>💻 42 Projects</h2>
+## 💻 42 Projects
 
 <div align="center">
    <a href="https://github.com/ArthurSobreira/42_libft" target="_blank">
