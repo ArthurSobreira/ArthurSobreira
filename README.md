@@ -50,7 +50,7 @@ install everything you need.
       <img height=120 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png">
+      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
    </a>
 </div>
 
