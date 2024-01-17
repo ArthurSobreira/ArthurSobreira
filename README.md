@@ -52,6 +52,9 @@ install everything you need.
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
       <img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
    </a>
+   <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
+      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/minishelln.png">
+   </a>
 </div>
 
 ##
