@@ -53,7 +53,7 @@ install everything you need.
       <img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_minishell" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/minishelln.png">
+      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png">
    </a>
 </div>
 
