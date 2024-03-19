@@ -31,29 +31,32 @@ install everything you need.
 
 <div align="center">
    <a href="https://github.com/ArthurSobreira/42_libft" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_get_next_line" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_ft_printf" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_born2beroot" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png">
    </a>
    <br>
    <a href="https://github.com/ArthurSobreira/42_fdf" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_pipex" target="_blank">
-      <img height=120 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
+      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_minishell" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png">
+      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png">
+   </a>
+   <a href="https://github.com/ArthurSobreira/42_philosophers" target="_blank">
+      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersn.png">
    </a>
 </div>
 
