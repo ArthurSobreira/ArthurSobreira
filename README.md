@@ -56,7 +56,7 @@ install everything you need.
       <img height=115 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_philosophers" target="_blank">
-      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersn.png">
+      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png">
    </a>
 </div>
 
