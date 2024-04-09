@@ -42,10 +42,10 @@ install everything you need.
    <a href="https://github.com/ArthurSobreira/42_born2beroot" target="_blank">
       <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png">
    </a>
-   <br>
    <a href="https://github.com/ArthurSobreira/42_fdf" target="_blank">
       <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png">
    </a>
+   <br>
    <a href="https://github.com/ArthurSobreira/42_pipex" target="_blank">
       <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
    </a>
@@ -57,6 +57,9 @@ install everything you need.
    </a>
    <a href="https://github.com/ArthurSobreira/42_philosophers" target="_blank">
       <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png">
+   </a>
+   <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
+      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/netpracticen.png">
    </a>
 </div>
 
