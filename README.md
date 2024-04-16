@@ -45,10 +45,10 @@ install everything you need.
    <a href="https://github.com/ArthurSobreira/42_fdf" target="_blank">
       <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png">
    </a>
-   <br>
-   <a href="https://github.com/ArthurSobreira/42_pipex" target="_blank">
+    <a href="https://github.com/ArthurSobreira/42_pipex" target="_blank">
       <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
    </a>
+   <br>
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
       <img height=110 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
    </a>
@@ -60,6 +60,9 @@ install everything you need.
    </a>
    <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
       <img height=110 src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png">
+   </a>
+   <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank">
+      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cub3dn.png">
    </a>
 </div>
 
