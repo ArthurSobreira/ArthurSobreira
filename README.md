@@ -59,7 +59,7 @@ install everything you need.
       <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png">
+      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank">
       <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cub3dn.png">
