@@ -64,6 +64,9 @@ install everything you need.
    <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank">
       <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png">
    </a>
+   <a href="https://github.com/ArthurSobreira/42_CPP" target="_blank">
+      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cppn.png">
+   </a>
 </div>
 
 ##
