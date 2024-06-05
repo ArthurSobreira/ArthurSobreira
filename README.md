@@ -50,22 +50,22 @@ install everything you need.
    </a>
    <br>
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png">
+      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_minishell" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png">
+      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_philosophers" target="_blank">
-      <img height=115 src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png">
+      <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png">
+      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticem.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png">
+      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_CPP" target="_blank">
-      <img height=110 src="https://game.42sp.org.br/static/assets/achievements/cppn.png">
+      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppn.png">
    </a>
 </div>
 
