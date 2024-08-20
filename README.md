@@ -68,7 +68,10 @@ install everything you need.
       <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_inception" target="_blank">
-      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/inceptionn.png">
+      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/inceptionm.png">
+   </a>
+   <a href="https://github.com/ArthurSobreira/42_webserv" target="_blank">
+      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/webservn.png">
    </a>
 </div>
 
