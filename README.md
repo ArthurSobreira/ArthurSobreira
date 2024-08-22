@@ -59,7 +59,7 @@ install everything you need.
       <img height=105 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
-      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticem.png">
+      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticee.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank">
       <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png">
@@ -68,7 +68,7 @@ install everything you need.
       <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_inception" target="_blank">
-      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/inceptionm.png">
+      <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/inceptione.png">
    </a>
    <a href="https://github.com/ArthurSobreira/42_webserv" target="_blank">
       <img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/webservn.png">
