@@ -37,8 +37,8 @@ install everything you need.
    <a href="https://github.com/ArthurSobreira/42_fdf" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png"></a>
    <a href="https://github.com/ArthurSobreira/42_pipex" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png"></a>
    <a href="https://github.com/ArthurSobreira/42_push_swap" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png"></a>
-   <br>
    <a href="https://github.com/ArthurSobreira/42_minishell" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png"></a>
+   <br>
    <a href="https://github.com/ArthurSobreira/42_philosophers" target="_blank"><img height=105 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png"></a>
    <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticee.png"></a>
    <a href="https://github.com/ArthurSobreira/42_cub3D" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png"></a>
